@@ -1,0 +1,1 @@
+print("Rode este script com python script.py dentro do terminal, na pasta do projeto.")
